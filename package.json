@@ -1,10 +1,11 @@
 {
 	"name": "periodic-elements",
 	"description": "Periodic Elements Package",
-	"version": "0.0.2",
+	"version": "0.0.3",
 	"keywords": "periodic elements element science",
 	"license": "MIT",
 	"main": "periodic-elements.coffee",
 	"dependencies": { "coffee-script": ">=1.6.3" },
-	"repository": { "type": "git", "url": "https://github.com/argylemachine/periodic-elementsgit" }
+	"repository": { "type": "git", "url": "https://github.com/argylemachine/periodic-elementsgit" },
+	"author": "Robert Keizer <robert@keizer.ca> (http://robert.keizer.ca)"
 }
