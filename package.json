@@ -1,7 +1,7 @@
 {
 	"name": "periodic-elements",
 	"description": "Periodic Elements Package",
-	"version": "0.0.1",
+	"version": "0.0.2",
 	"keywords": "periodic elements element science",
 	"license": "MIT",
 	"main": "periodic-elements.coffee",

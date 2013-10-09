@@ -1,3 +1,4 @@
 fs	= require "fs"
-for element in JSON.parse fs.readFileSync "./elements.json"
+path	= require "path"
+for element in JSON.parse fs.readFileSync path.join path.dirname( __filename ), "./elements.json"
 	exports[element.name] = element
